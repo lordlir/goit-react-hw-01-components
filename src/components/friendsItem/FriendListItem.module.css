@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+}
+.status {
+  width: 40px;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}

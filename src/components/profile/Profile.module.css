@@ -1,0 +1,33 @@
+.profile {
+  background-color: gainsboro;
+}
+
+.description {
+  text-align: center;
+}
+
+.avatar {
+  height: 200px;
+  margin: 0 auto;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: antiquewhite;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+  font-size: 24px;
+}
+
+
+.label,
+.quantity {
+  display: block;
+}

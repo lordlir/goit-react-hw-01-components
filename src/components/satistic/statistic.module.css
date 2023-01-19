@@ -1,0 +1,15 @@
+/* @import url(./getRandomBgCol.js); */
+.statistics {
+  background-color: azure;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.statList {
+  display: flex;
+}
+
+.label,
+.percentage {
+  display: block;
+}
